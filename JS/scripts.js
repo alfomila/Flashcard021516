@@ -7,4 +7,8 @@ $(document).ready(function() {
     $(".Definition2").toggle();
     $(".Term2").toggle();
   });
+  $(".clickable3").click(function() {
+    $(".Definition3").toggle();
+    $(".Term3").toggle();
+  });
 });

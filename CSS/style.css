@@ -23,3 +23,16 @@
 .Definition2 {
   display: none;
 }
+
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3:hover {
+  text-decoration: underline;
+}
+
+.Definition3 {
+  display: none;
+}
